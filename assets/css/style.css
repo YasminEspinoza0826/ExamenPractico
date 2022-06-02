@@ -1,0 +1,13 @@
+.tbl{
+	width: 80%;
+	transform: translate(90px, 20px);
+}
+
+.form_al{
+	background-color: black;
+	width: 200px;
+}
+
+.btn_al{
+	width: 50px;
+}
